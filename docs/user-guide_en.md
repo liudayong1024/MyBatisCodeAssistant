@@ -187,6 +187,7 @@ insertSelective / insertBatch           â†’ selective / batch insert
 Segment-by-segment completion (By/And/OrderBy/Like/In...) assists while typing.
 
 ![Method name to SQL](images/guide/method-name-to-sql.png)
+![Method name to SQL](images/guide/method-name-to-sql-1.png)
 
 Generated statements carry the `<!--@mbg.generated-->` marker and a fixed layout (blank line between
 statements, single-line include) that is independent of your project XML code style.
@@ -231,6 +232,7 @@ Mapper files are checked automatically; fix everything with `Alt+Enter`:
 - Without a data source, falls back to columns derived from entity fields.
 
 ![Table/column completion](images/guide/table-column-completion.png)
+![Table/column completion](images/guide/table-column-completion-1.png)
 
 ### 10.2 `#{}` Parameter Completion
 
@@ -261,6 +263,7 @@ Expands `include / where / set / trim / foreach / if` and renders the final SQL 
 to verify dynamic assembly.
 
 ![Dynamic SQL preview](images/guide/preview-dynamic-sql.png)
+![Dynamic SQL preview](images/guide/preview-dynamic-sql-1.png)
 
 ---
 
@@ -363,6 +366,7 @@ Derives column types from field types and produces a `CREATE TABLE` statement â€
 an SQL file.
 
 ![Java to DDL](images/guide/java-to-ddl.png)
+![Java to DDL](images/guide/java-to-ddl-1.png)
 
 ---
 
@@ -415,6 +419,7 @@ an SQL file.
 - Changes can be **previewed** instantly; one click restores the default template.
 
 ![Template editor](images/guide/template-editor.png)
+![Template editor](images/guide/template-editor-1.png)
 
 ---
 
