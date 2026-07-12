@@ -175,6 +175,7 @@ insertSelective / insertBatch           → 选择性插入 / 批量插入
 输入过程中有**方法名分段补全**提示(By/And/OrderBy/Like/In...)。
 
 ![方法名生成SQL](images/guide/method-name-to-sql.png)
+![方法名生成SQL](images/guide/method-name-to-sql-1.png)
 
 生成的 XML 语句自动带 `<!--@mbg.generated-->` 标记、固定排版(语句间空行、include 单行),不受项目 XML 代码风格影响。
 
@@ -219,6 +220,7 @@ insertSelective / insertBatch           → 选择性插入 / 批量插入
 - 未配置数据源时,回退为按实体类字段推导列名。
 
 ![表列补全](images/guide/table-column-completion.png)
+![表列补全](images/guide/table-column-completion-1.png)
 
 ### 10.2 `#{}` 参数补全
 
@@ -245,6 +247,7 @@ insertSelective / insertBatch           → 选择性插入 / 批量插入
 将 `include / where / set / trim / foreach / if` 全部展开,渲染出最终 SQL 只读预览,方便核对动态语句拼接结果。
 
 ![动态SQL预览](images/guide/preview-dynamic-sql.png)
+![动态SQL预览](images/guide/preview-dynamic-sql-1.png)
 
 ---
 
@@ -317,6 +320,7 @@ insertSelective / insertBatch           → 选择性插入 / 批量插入
 在弹窗中选择主表、关联表与关联条件,自动生成带别名的 JOIN 查询语句与 resultMap。
 
 ![JOIN生成](images/guide/join-sql.png)
+![JOIN生成](images/guide/join-sql-1.png)
 
 ---
 
@@ -337,7 +341,7 @@ insertSelective / insertBatch           → 选择性插入 / 批量插入
 按字段类型推导列类型,生成 `CREATE TABLE` 语句;可复制到剪贴板或写入 SQL 文件。
 
 ![Java转DDL](images/guide/java-to-ddl.png)
-
+![Java转DDL](images/guide/java-to-ddl-1.png)
 ---
 
 ## 19. 数据库文档导出
@@ -388,6 +392,7 @@ insertSelective / insertBatch           → 选择性插入 / 批量插入
 - 修改后可即时**预览**生成效果,不满意可一键恢复默认模板。
 
 ![模板编辑](images/guide/template-editor.png)
+![模板编辑](images/guide/template-editor-1.png)
 
 ---
 
