@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>MyBatisCodeAssistant Docs</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <meta name="description" content="MyBatisCodeAssistant — all-in-one MyBatis code helper for IntelliJ IDEA. 使用说明 / User Guide">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    :root {
+      --theme-color: #2F6FED;
+    }
+    .app-name-link img { max-width: 60%; }
+    .sidebar-nav strong { color: #2F6FED; }
+    .markdown-section code { color: #476582; }
+  </style>
+</head>
+<body>
+  <div id="app">加载中 / Loading...</div>
+  <script>
+    window.$docsify = {
+      name: 'MyBatisCodeAssistant',
+      repo: 'https://github.com/liudayong1024/MyBatisCodeAssistant',
+      loadSidebar: true,
+      // 侧边栏自动展开当前文档的标题层级(两份指南都是 ## 章节)
+      subMaxLevel: 2,
+      auto2top: true,
+      // 搜索:中英文档都建索引
+      search: {
+        placeholder: '搜索 / Search',
+        noData: '无结果 / No results',
+        depth: 3,
+        paths: 'auto'
+      },
+      // 页面未找到时回落首页
+      notFoundPage: true
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  <!-- SQL/Java/XML 代码块高亮 -->
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-sql.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-java.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-markup.min.js"></script>
+</body>
+</html>
