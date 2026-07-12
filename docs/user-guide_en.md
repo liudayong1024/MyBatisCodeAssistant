@@ -2,10 +2,11 @@
 
 [简体中文](./user-guide_zh.md) | **English**
 
-> An all-in-one MyBatis code helper for IntelliJ IDEA: one-click code generation from database tables,
-> method-name-to-SQL, smart merge, rich completion, MyBatis log analysis and more.
-> This guide covers every feature, organized as "entry point → steps → notes" with screenshots,
-> so even first-time users can get productive quickly.
+> An all-in-one MyBatis code helper: one-click code generation from database tables, method-name-to-SQL, smart merge, rich completion, MyBatis log analysis, and more.
+> We strive to minimize unnecessary configuration and embrace the principle of **convention over configuration**, making the plugin easy and pleasant to use — so you never have to struggle with excessive setup again!
+> We pursue the ultimate **experience**: customize generation templates to fit your needs, preview templates in real time, and generate SQL XML files for the corresponding tables dynamically from configured SQL methods across multiple tables.
+> This guide covers the vast majority of the plugin's features, organized as "entry point → steps → notes," with screenshots — so even first-time users can get started with ease.
+> Our goal: to make MyBatis development simpler, more efficient, and more intelligent.
 
 ---
 
