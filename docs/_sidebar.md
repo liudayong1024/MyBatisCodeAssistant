@@ -2,9 +2,11 @@
 
 - **简体中文**
   - [📖 使用说明](user-guide_zh.md)
+  - [📄 许可协议 EULA](eula_zh.md)
 
 - **English**
   - [📖 User Guide](user-guide_en.md)
+  - [📄 License (EULA)](eula_en.md)
 
 - **链接 / Links**
   - [JetBrains Marketplace](https://plugins.jetbrains.com/search?search=MyBatisCodeAssistant)
