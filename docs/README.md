@@ -29,5 +29,5 @@ dynamic SQL preview & interactive testing · SQL-to-MyBatis · custom Velocity t
 database documentation export, and more.
 
 - 📖 群聊1：476672294
-- 📖 群聊1：872237547
+- 📖 群聊2：872237547
 - 📖 LINE：singmoonshell
