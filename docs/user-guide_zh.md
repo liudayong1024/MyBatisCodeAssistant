@@ -55,7 +55,9 @@
 - 订阅由 JetBrains Marketplace 官方托管,在 IDE 的 `Settings → Plugins → 插件页 → Manage Subscription` 管理。
 
 > 提示:未订阅时点击付费功能会出现引导气泡,不影响其余功能使用。
+> 试用可以在 Help → Manage Subscription 中设置
 
+![插件试用](images/guide/start-trial.png)
 ---
 
 ## 2. 五分钟快速上手

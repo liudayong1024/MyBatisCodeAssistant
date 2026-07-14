@@ -58,7 +58,9 @@ restart the IDE.
 - Subscriptions are managed by JetBrains Marketplace: `Settings → Plugins → plugin page → Manage Subscription`.
 
 > Tip: without a subscription, paid features show a purchase hint — everything else keeps working.
+> Trials can be set up in Help → Manage Subscription
 
+![Plug-in trial](images/guide/start-trial.png)
 ---
 
 ## 2. Five-Minute Quick Start
