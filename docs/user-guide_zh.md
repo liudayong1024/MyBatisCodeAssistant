@@ -428,3 +428,7 @@ IDE 正在建索引,等待右下角索引进度完成后重试即可。
 ---
 
 *文档对应插件版本 1.0.0;截图位于 `docs/images/guide/` 目录,待补充时参见 `docs/images/guide/README.md` 的截图清单。*
+
+- 📖 QQ 群1：476672294
+- 📖 QQ 群2：872237547
+- 📖 LINE：singmoonshell

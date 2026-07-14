@@ -458,3 +458,7 @@ free trial available.
 
 *This guide matches plugin version 1.0.0. Screenshots live in `docs/images/guide/`; see
 `docs/images/guide/README.md` for the capture checklist.*
+
+- 📖 QQ group1：476672294
+- 📖 QQ group2：872237547
+- 📖 LINE：singmoonshell
