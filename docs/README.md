@@ -28,6 +28,6 @@ table/column & `#{}` completion · OGNL completion · real-time MyBatis Log anal
 dynamic SQL preview & interactive testing · SQL-to-MyBatis · custom Velocity templates ·
 database documentation export, and more.
 
-- 📖 群聊1：476672294
-- 📖 群聊2：872237547
+- 📖 QQ 群1：476672294
+- 📖 QQ 群2：872237547
 - 📖 LINE：singmoonshell
